@@ -14,7 +14,7 @@ class Config(Config):
     PYTDL_COMMAND_G = "pytdl"
     STATUS_COMMAND = "status "
     DESTINATION_FOLDER = "TorrentLeech-Gdrive"
-    LEECH_COMMAND = "down"
+    LEECH_COMMAND = "leech@Ups2bot"
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
     RCLONE_CONFIG = """
