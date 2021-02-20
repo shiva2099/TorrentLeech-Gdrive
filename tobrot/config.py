@@ -1,20 +1,20 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-    TG_BOT_TOKEN= "1631494809:AAFld8K9cbn8j0RPNA9xxuWNVu9lU6EXrok"
+    TG_BOT_TOKEN= "1643428545:AAHEqCACYIal7kIL35qpqzGpwbcs5qa4hws"
     APP_ID = 2699106
     OWNER_ID = 1218670347
     API_HASH = "dbc0763f2ec0505c88130f3ab7b64484"
-    AUTH_CHANNEL = [-1001370885934]
+    AUTH_CHANNEL = [-1001370885934 1218670347]
     INDEX_LINK = "https://torrentleech.torrentleech-gdrive.workers.dev"
-    GLEECH_COMMAND = "gleech@Speedtorrentleechbot"
-    YTDL_COMMAND = 'ytdl@Speedtorrentleechbot'
-    TELEGRAM_LEECH_COMMAND_G = "tleech@Speedtorrentleechbot"
+    GLEECH_COMMAND = "gleech"
+    YTDL_COMMAND = 'ytdl'
+    TELEGRAM_LEECH_COMMAND_G = "tleech"
     CLONE_COMMAND_G = "gclone"
     PYTDL_COMMAND_G = "pytdl"
     STATUS_COMMAND = "status "
     DESTINATION_FOLDER = "TorrentLeech-Gdrive"
-    LEECH_COMMAND = "leech@Speedtorrentleechbot "
+    LEECH_COMMAND = "leech"
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
     RCLONE_CONFIG = """
