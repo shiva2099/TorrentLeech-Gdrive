@@ -5,7 +5,7 @@ class Config(Config):
     APP_ID = 2699106
     OWNER_ID = 1218670347
     API_HASH = "dbc0763f2ec0505c88130f3ab7b64484"
-    AUTH_CHANNEL = [-1001370885934 1218670347]
+    AUTH_CHANNEL = [-1001370885934]
     INDEX_LINK = "https://torrentleech.torrentleech-gdrive.workers.dev"
     GLEECH_COMMAND = "gleech"
     YTDL_COMMAND = 'ytdl'
